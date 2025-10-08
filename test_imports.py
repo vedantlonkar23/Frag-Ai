@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-"""
-Test script to verify all imports work correctly
-"""
 
 def test_imports():
     print("Testing imports...")
